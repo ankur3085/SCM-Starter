@@ -1,7 +1,9 @@
-Simple Banking Smart Contract
+Simple Banking Smart Contract with User Interface
+
 This project implements a basic banking smart contract on the Ethereum blockchain. It allows users to deposit and withdraw Ether, check their balances, reset balances by the owner, and close the bank contract.
 
 Description
+
 The Banking smart contract provides the following functionalities:
 
 Deposit: Allows users to deposit Ether into their account.
